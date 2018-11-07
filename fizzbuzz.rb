@@ -3,6 +3,8 @@
 		print "fizz"
 	if i % 5 == 0 then
 		print "buzz"
+	if i % 7 == 0 then
+		print "git"
 	else
 		print i
 	end
